@@ -1,8 +1,10 @@
 # Gym_OOP_Assignment
 Assignment Instructions:
 https://github.com/IlanSimchon/Fitness-studio.git
+https://github.com/IlanSimchon/Fitness-studio/blob/1adf3464f902114050549a3f8b05fe1036205012/Main.java
+https://github.com/IlanSimchon/Fitness-studio/blob/1adf3464f902114050549a3f8b05fe1036205012/output.txt
 
-# Object-Oriented Programming - Assignment 2
+## Object-Oriented Programming - Assignment 2
 ## Fitness Studio Management System
 
 ### Background
